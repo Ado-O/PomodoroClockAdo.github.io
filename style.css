@@ -1,0 +1,13 @@
+body {
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+body {
+    color: white;
+    font-family: "Montserrat";
+}
+
+h2 {
+    display: inline;
+}
